@@ -1,0 +1,32 @@
+h1{
+     text-align: center;
+     color: blue;
+ }
+ .box{
+     border: 2px solid black;
+     height: 280px;
+     width: 300px;
+     margin-left: 50px;
+     box-shadow: 5px 5px 5px lightblue;
+ }
+ 
+ #title{
+     height: 20px;
+     width: 200px;
+     padding: 8px;
+     margin: 10px;
+     font-size: larger;
+ }
+ #content{
+     margin: 10px;
+ }
+ #btn{
+     width: 280px;
+     height: 30px;
+     margin-left: 8px;
+ }
+ .internalDivs{
+     height: 300px;
+     width: 300px;
+     margin-top: 50px;
+ }
